@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://willkoste:My2dogs95@cluster0-28hd1.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "veryVerySecret"
+  "jwtSecret": "veryVerySecret",
+  "githubClientId": "39b804106302510395c1",
+  "githubClientSecret": "aa02b33f38974f9ddb16047b3865b64c973ac738"
 }
